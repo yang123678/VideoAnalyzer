@@ -1,0 +1,1441 @@
+2023-01-14 08:48:42.451 D MediaServer.exe[3632-stamp thread] util.cpp:341 operator () | Stamp thread started!
+2023-01-14 08:48:42.458 I MediaServer.exe[3632-1680] EventPoller.cpp:453 EventPollerPool | 创建EventPoller个数:16
+2023-01-14 08:48:42.460 I MediaServer.exe[3632-1680] TcpServer.cpp:199 start_l | TCP Server listening on [::]:554
+2023-01-14 08:48:42.462 I MediaServer.exe[3632-1680] TcpServer.cpp:199 start_l | TCP Server listening on [::]:1935
+2023-01-14 08:48:42.464 I MediaServer.exe[3632-1680] TcpServer.cpp:199 start_l | TCP Server listening on [::]:80
+2023-01-14 08:48:42.465 I MediaServer.exe[3632-1680] TcpServer.cpp:199 start_l | TCP Server listening on [::]:443
+2023-01-14 08:48:42.467 I MediaServer.exe[3632-1680] TcpServer.cpp:199 start_l | TCP Server listening on [::]:10000
+2023-01-14 08:48:42.471 I MediaServer.exe[3632-1680] UdpServer.cpp:104 start_l | UDP Server bind to [::]:10000
+2023-01-14 08:48:42.471 I MediaServer.exe[3632-1680] main.cpp:330 start_main | 已启动http api 接口
+2023-01-14 08:48:42.471 I MediaServer.exe[3632-1680] main.cpp:332 start_main | 已启动http hook 接口
+2023-01-14 08:48:51.944 I MediaServer.exe[3632-3588] main.cpp:337 operator () | SIGINT:exit
+2023-01-14 08:48:51.944 I MediaServer.exe[3632-1680] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:10000
+2023-01-14 08:48:51.945 I MediaServer.exe[3632-1680] UdpServer.cpp:55 ~UdpServer | close udp server [::]:10000
+2023-01-14 08:48:51.947 I MediaServer.exe[3632-1680] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:443
+2023-01-14 08:48:51.948 I MediaServer.exe[3632-1680] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:80
+2023-01-14 08:48:51.949 I MediaServer.exe[3632-1680] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:1935
+2023-01-14 08:48:51.949 I MediaServer.exe[3632-1680] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:554
+2023-01-14 08:48:51.950 I MediaServer.exe[3632-1680] main.cpp:350 start_main | 程序退出中,请等待...
+2023-01-14 08:48:52.962 I MediaServer.exe[3632-1680] main.cpp:352 start_main | 程序退出完毕!
+2023-01-14 08:48:52.962 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AAD50EB0
+2023-01-14 08:48:52.962 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AAD72270
+2023-01-14 08:48:52.963 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AAD5FD70
+2023-01-14 08:48:52.963 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AAD595B0
+2023-01-14 08:48:52.963 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AAD83230
+2023-01-14 08:48:52.964 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AAD8AE60
+2023-01-14 08:48:52.964 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AADB21A0
+2023-01-14 08:48:52.965 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AADB2E10
+2023-01-14 08:48:52.965 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AADB3BC0
+2023-01-14 08:48:52.965 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AADB6710
+2023-01-14 08:48:52.965 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AADB7240
+2023-01-14 08:48:52.966 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AADFD040
+2023-01-14 08:48:52.966 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AADFF980
+2023-01-14 08:48:52.966 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AAE000A0
+2023-01-14 08:48:52.966 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AAE047E0
+2023-01-14 08:48:52.966 I MediaServer.exe[3632-1680] EventPoller.cpp:90 ~EventPoller | 000001B1AAE08D60
+2023-01-14 08:48:52.972 I MediaServer.exe[3632-1680] logger.cpp:86 ~Logger | 
+2023-01-14 08:49:01.309 D MediaServer.exe[15364-stamp thread] util.cpp:341 operator () | Stamp thread started!
+2023-01-14 08:49:01.317 I MediaServer.exe[15364-10732] EventPoller.cpp:453 EventPollerPool | 创建EventPoller个数:16
+2023-01-14 08:49:01.319 I MediaServer.exe[15364-10732] TcpServer.cpp:199 start_l | TCP Server listening on [::]:554
+2023-01-14 08:49:01.321 I MediaServer.exe[15364-10732] TcpServer.cpp:199 start_l | TCP Server listening on [::]:1935
+2023-01-14 08:49:01.323 I MediaServer.exe[15364-10732] TcpServer.cpp:199 start_l | TCP Server listening on [::]:80
+2023-01-14 08:49:01.324 I MediaServer.exe[15364-10732] TcpServer.cpp:199 start_l | TCP Server listening on [::]:443
+2023-01-14 08:49:01.326 I MediaServer.exe[15364-10732] TcpServer.cpp:199 start_l | TCP Server listening on [::]:10000
+2023-01-14 08:49:01.330 I MediaServer.exe[15364-10732] UdpServer.cpp:104 start_l | UDP Server bind to [::]:10000
+2023-01-14 08:49:01.330 I MediaServer.exe[15364-10732] main.cpp:330 start_main | 已启动http api 接口
+2023-01-14 08:49:01.330 I MediaServer.exe[15364-10732] main.cpp:332 start_main | 已启动http hook 接口
+2023-01-14 08:49:41.583 W MediaServer.exe[15364-event poller 0] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 09:21:35.736 W MediaServer.exe[15364-event poller 0] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 10:32:38.479 D MediaServer.exe[17160-stamp thread] util.cpp:341 operator () | Stamp thread started!
+2023-01-14 10:32:38.485 I MediaServer.exe[17160-17164] EventPoller.cpp:453 EventPollerPool | 创建EventPoller个数:16
+2023-01-14 10:32:38.487 I MediaServer.exe[17160-17164] TcpServer.cpp:199 start_l | TCP Server listening on [::]:554
+2023-01-14 10:32:38.489 I MediaServer.exe[17160-17164] TcpServer.cpp:199 start_l | TCP Server listening on [::]:1935
+2023-01-14 10:32:38.490 W MediaServer.exe[17160-17164] EventPoller.cpp:188 async_l | take time:10ms, thread may be overloaded
+2023-01-14 10:32:38.491 I MediaServer.exe[17160-17164] TcpServer.cpp:199 start_l | TCP Server listening on [::]:80
+2023-01-14 10:32:38.492 I MediaServer.exe[17160-17164] TcpServer.cpp:199 start_l | TCP Server listening on [::]:443
+2023-01-14 10:32:38.494 I MediaServer.exe[17160-17164] TcpServer.cpp:199 start_l | TCP Server listening on [::]:10000
+2023-01-14 10:32:38.497 I MediaServer.exe[17160-17164] UdpServer.cpp:104 start_l | UDP Server bind to [::]:10000
+2023-01-14 10:32:38.498 I MediaServer.exe[17160-17164] main.cpp:330 start_main | 已启动http api 接口
+2023-01-14 10:32:38.498 I MediaServer.exe[17160-17164] main.cpp:332 start_main | 已启动http hook 接口
+2023-01-14 10:35:08.117 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 1-640(127.0.0.1:60468) 
+2023-01-14 10:35:08.139 D MediaServer.exe[17160-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 10:35:08.140 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 1-640(127.0.0.1:60468) end of file
+2023-01-14 10:35:08.140 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 1-640(127.0.0.1:60468) 
+2023-01-14 10:35:14.335 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 2-640(127.0.0.1:60494) 
+2023-01-14 10:35:14.336 D MediaServer.exe[17160-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 10:35:14.336 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 2-640(127.0.0.1:60494) end of file
+2023-01-14 10:35:14.336 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 2-640(127.0.0.1:60494) 
+2023-01-14 10:35:17.505 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 3-636(127.0.0.1:60507) 
+2023-01-14 10:35:20.756 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 3-636(127.0.0.1:60507) end of file
+2023-01-14 10:35:20.756 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 3-636(127.0.0.1:60507) 
+2023-01-14 10:35:29.679 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 4-640(127.0.0.1:60548) 
+2023-01-14 10:35:29.679 D MediaServer.exe[17160-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 10:35:29.680 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 4-640(127.0.0.1:60548) end of file
+2023-01-14 10:35:29.680 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 4-640(127.0.0.1:60548) 
+2023-01-14 10:35:36.012 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 5-712(127.0.0.1:60576) 
+2023-01-14 10:35:36.034 D MediaServer.exe[17160-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 10:35:36.034 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 5-712(127.0.0.1:60576) end of file
+2023-01-14 10:35:36.034 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 5-712(127.0.0.1:60576) 
+2023-01-14 10:35:39.119 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 6-636(127.0.0.1:60588) 
+2023-01-14 10:35:39.120 D MediaServer.exe[17160-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 10:35:39.120 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 6-636(127.0.0.1:60588) end of file
+2023-01-14 10:35:39.120 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 6-636(127.0.0.1:60588) 
+2023-01-14 10:35:39.784 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 7-712(127.0.0.1:60593) 
+2023-01-14 10:35:39.785 D MediaServer.exe[17160-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 10:35:39.785 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 7-712(127.0.0.1:60593) end of file
+2023-01-14 10:35:39.785 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 7-712(127.0.0.1:60593) 
+2023-01-14 10:35:40.301 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 8-712(127.0.0.1:60600) 
+2023-01-14 10:35:40.302 D MediaServer.exe[17160-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 10:35:40.302 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 8-712(127.0.0.1:60600) end of file
+2023-01-14 10:35:40.302 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 8-712(127.0.0.1:60600) 
+2023-01-14 10:35:40.745 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 9-712(127.0.0.1:60604) 
+2023-01-14 10:35:40.745 D MediaServer.exe[17160-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 10:35:40.746 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 9-712(127.0.0.1:60604) end of file
+2023-01-14 10:35:40.746 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 9-712(127.0.0.1:60604) 
+2023-01-14 10:35:43.639 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 10:51:20.182 D MediaServer.exe[17160-event poller 0] RtspSession.cpp:53 RtspSession | 10-712(127.0.0.1:63693) 
+2023-01-14 10:51:20.185 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 10:51:23.780 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注册:rtsp __defaultVhost__ live test
+2023-01-14 10:51:25.446 W MediaServer.exe[17160-event poller 0] MediaSink.cpp:50 operator () | cached frame of unready track(H264) is too much, now cleared
+2023-01-14 10:51:25.523 D MediaServer.exe[17160-event poller 0] MediaSink.cpp:136 emitAllTrackReady | all track ready use 5333ms
+2023-01-14 10:51:25.526 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注册:fmp4 __defaultVhost__ live test
+2023-01-14 10:51:25.526 I MediaServer.exe[17160-event poller 0] MultiMediaSourceMuxer.cpp:318 onAllTrackReady | stream: rtsp://127.0.0.1:554/live/test , codec info: H264[1080/606/25] mpeg4-generic[44100/2/16] 
+2023-01-14 10:51:25.527 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注册:rtmp __defaultVhost__ live test
+2023-01-14 10:51:25.527 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注册:ts __defaultVhost__ live test
+2023-01-14 10:51:29.059 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:27 HttpSession | 11-720(127.0.0.1:63751) 
+2023-01-14 10:51:29.061 D MediaServer.exe[17160-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:5083
+
+2023-01-14 10:51:29.062 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:121 onError | 11-720(127.0.0.1:63751) end of file
+2023-01-14 10:51:29.062 T MediaServer.exe[17160-event poller 0] HttpSession.cpp:33 ~HttpSession | 11-720(127.0.0.1:63751) 
+2023-01-14 10:51:32.296 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注册:hls __defaultVhost__ live test
+2023-01-14 10:51:33.308 T MediaServer.exe[17160-event poller 1] HttpSession.cpp:27 HttpSession | 12-720(127.0.0.1:63767) 
+2023-01-14 10:51:36.237 W MediaServer.exe[17160-event poller 1] HttpSession.cpp:105 onError | 12-720(127.0.0.1:63767) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):2
+2023-01-14 10:51:36.237 T MediaServer.exe[17160-event poller 1] HttpSession.cpp:33 ~HttpSession | 12-720(127.0.0.1:63767) 
+2023-01-14 10:51:36.287 T MediaServer.exe[17160-event poller 1] HttpSession.cpp:27 HttpSession | 13-724(127.0.0.1:63777) 
+2023-01-14 10:51:36.290 D MediaServer.exe[17160-event poller 1] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6349
+
+2023-01-14 10:51:36.291 T MediaServer.exe[17160-event poller 1] HttpSession.cpp:121 onError | 13-724(127.0.0.1:63777) end of file
+2023-01-14 10:51:36.291 T MediaServer.exe[17160-event poller 1] HttpSession.cpp:33 ~HttpSession | 13-724(127.0.0.1:63777) 
+2023-01-14 10:51:45.742 T MediaServer.exe[17160-event poller 1] HttpSession.cpp:27 HttpSession | 14-728(127.0.0.1:63814) 
+2023-01-14 10:51:45.744 D MediaServer.exe[17160-event poller 1] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6354
+
+2023-01-14 10:51:45.745 T MediaServer.exe[17160-event poller 1] HttpSession.cpp:121 onError | 14-728(127.0.0.1:63814) end of file
+2023-01-14 10:51:45.745 T MediaServer.exe[17160-event poller 1] HttpSession.cpp:33 ~HttpSession | 14-728(127.0.0.1:63814) 
+2023-01-14 10:51:53.583 T MediaServer.exe[17160-event poller 2] HttpSession.cpp:27 HttpSession | 15-732(127.0.0.1:63848) 
+2023-01-14 10:51:54.147 D MediaServer.exe[17160-event poller 2] RtmpSession.cpp:21 RtmpSession | 16-736(127.0.0.1:63852) 
+2023-01-14 10:51:54.147 W MediaServer.exe[17160-event poller 2] RtmpProtocol.cpp:339 handle_C0C1 | 未打开ENABLE_OPENSSL宏，复杂握手采用简单方式处理，flash播放器可能无法播放！
+2023-01-14 10:51:54.148 T MediaServer.exe[17160-event poller 2] RtmpProtocol.cpp:683 handle_chunk | MSG_SET_CHUNK:60000
+2023-01-14 10:51:54.168 D MediaServer.exe[17160-event poller 2] RtmpSession.cpp:131 operator () | 16-736(127.0.0.1:63852) publish 回复时间:0ms
+2023-01-14 10:51:54.261 D MediaServer.exe[17160-event poller 2] MediaSink.cpp:136 emitAllTrackReady | all track ready use 93ms
+2023-01-14 10:51:54.261 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注册:fmp4 __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 10:51:54.261 I MediaServer.exe[17160-event poller 2] MultiMediaSourceMuxer.cpp:318 onAllTrackReady | stream: rtmp://127.0.0.1:1935/analyzer/c9d697c0398126 , codec info: H264[1920/1080/25] mpeg4-generic[44100/2/16] 
+2023-01-14 10:51:54.262 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注册:rtsp __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 10:51:54.262 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注册:ts __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 10:51:54.262 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注册:rtmp __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 10:51:56.307 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注册:hls __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 10:52:12.038 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:17ms, thread may be overloaded
+2023-01-14 10:54:38.745 T MediaServer.exe[17160-event poller 2] HttpSession.cpp:27 HttpSession | 17-716(127.0.0.1:49930) 
+2023-01-14 10:54:38.760 D MediaServer.exe[17160-event poller 2] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12836
+
+2023-01-14 10:54:38.761 T MediaServer.exe[17160-event poller 2] HttpSession.cpp:121 onError | 17-716(127.0.0.1:49930) end of file
+2023-01-14 10:54:38.761 T MediaServer.exe[17160-event poller 2] HttpSession.cpp:33 ~HttpSession | 17-716(127.0.0.1:49930) 
+2023-01-14 10:54:44.271 T MediaServer.exe[17160-event poller 3] HttpSession.cpp:27 HttpSession | 18-716(127.0.0.1:50074) 
+2023-01-14 10:55:03.990 W MediaServer.exe[17160-event poller 3] HttpSession.cpp:105 onError | 18-716(127.0.0.1:50074) FLV/TS/FMP4播放器(__defaultVhost__/analyzer/c9d697c0398126)断开:end of file,耗时(s):19
+2023-01-14 10:55:03.990 T MediaServer.exe[17160-event poller 3] HttpSession.cpp:33 ~HttpSession | 18-716(127.0.0.1:50074) 
+2023-01-14 10:55:04.054 T MediaServer.exe[17160-event poller 3] HttpSession.cpp:27 HttpSession | 19-728(127.0.0.1:50371) 
+2023-01-14 10:55:04.058 D MediaServer.exe[17160-event poller 3] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12837
+
+2023-01-14 10:55:04.059 T MediaServer.exe[17160-event poller 3] HttpSession.cpp:121 onError | 19-728(127.0.0.1:50371) end of file
+2023-01-14 10:55:04.059 T MediaServer.exe[17160-event poller 3] HttpSession.cpp:33 ~HttpSession | 19-728(127.0.0.1:50371) 
+2023-01-14 10:57:49.558 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:17ms, thread may be overloaded
+2023-01-14 10:57:51.123 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:27 HttpSession | 20-748(127.0.0.1:52802) 
+2023-01-14 10:57:51.149 D MediaServer.exe[17160-event poller 11] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12841
+
+2023-01-14 10:57:51.151 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:121 onError | 20-748(127.0.0.1:52802) end of file
+2023-01-14 10:57:51.151 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:33 ~HttpSession | 20-748(127.0.0.1:52802) 
+2023-01-14 10:58:24.867 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:27 HttpSession | 21-752(127.0.0.1:53298) 
+2023-01-14 10:58:24.870 D MediaServer.exe[17160-event poller 11] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12841
+
+2023-01-14 10:58:24.871 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:121 onError | 21-752(127.0.0.1:53298) end of file
+2023-01-14 10:58:24.871 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:33 ~HttpSession | 21-752(127.0.0.1:53298) 
+2023-01-14 11:01:27.239 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 11:05:12.750 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:27 HttpSession | 22-720(127.0.0.1:59185) 
+2023-01-14 11:05:12.755 W MediaServer.exe[17160-event poller 11] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 11:05:12.755 D MediaServer.exe[17160-event poller 11] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12841
+
+2023-01-14 11:05:12.756 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:121 onError | 22-720(127.0.0.1:59185) end of file
+2023-01-14 11:05:12.756 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:33 ~HttpSession | 22-720(127.0.0.1:59185) 
+2023-01-14 11:05:13.168 T MediaServer.exe[17160-event poller 12] HttpSession.cpp:27 HttpSession | 23-784(127.0.0.1:59195) 
+2023-01-14 11:05:13.172 D MediaServer.exe[17160-event poller 12] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12841
+
+2023-01-14 11:05:13.173 T MediaServer.exe[17160-event poller 12] HttpSession.cpp:121 onError | 23-784(127.0.0.1:59195) end of file
+2023-01-14 11:05:13.173 T MediaServer.exe[17160-event poller 12] HttpSession.cpp:33 ~HttpSession | 23-784(127.0.0.1:59195) 
+2023-01-14 11:05:13.345 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 24-744(127.0.0.1:59203) 
+2023-01-14 11:05:13.349 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12841
+
+2023-01-14 11:05:13.350 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 24-744(127.0.0.1:59203) end of file
+2023-01-14 11:05:13.350 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 24-744(127.0.0.1:59203) 
+2023-01-14 11:05:29.639 W MediaServer.exe[17160-event poller 2] HttpSession.cpp:105 onError | 15-732(127.0.0.1:63848) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):816
+2023-01-14 11:05:29.640 T MediaServer.exe[17160-event poller 2] HttpSession.cpp:33 ~HttpSession | 15-732(127.0.0.1:63848) 
+2023-01-14 11:05:29.640 W MediaServer.exe[17160-event poller 2] RtmpSession.cpp:33 onError | 16-736(127.0.0.1:63852) RTMP推流器(__defaultVhost__/analyzer/c9d697c0398126)断开:end of file,耗时(s):815
+2023-01-14 11:05:29.640 D MediaServer.exe[17160-event poller 2] RtmpSession.cpp:27 ~RtmpSession | 16-736(127.0.0.1:63852) 
+2023-01-14 11:05:44.680 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注销:hls __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:05:44.680 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注销:ts __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:05:44.681 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注销:rtsp __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:05:44.683 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注销:fmp4 __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:05:44.683 I MediaServer.exe[17160-event poller 2] MediaSource.cpp:431 emitEvent | 媒体注销:rtmp __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:05:46.850 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 11:16:41.636 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 11:19:03.463 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注销:hls __defaultVhost__ live test
+2023-01-14 11:19:03.463 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注销:ts __defaultVhost__ live test
+2023-01-14 11:19:03.463 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注销:rtmp __defaultVhost__ live test
+2023-01-14 11:19:03.464 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注销:fmp4 __defaultVhost__ live test
+2023-01-14 11:19:03.464 I MediaServer.exe[17160-event poller 0] MediaSource.cpp:431 emitEvent | 媒体注销:rtsp __defaultVhost__ live test
+2023-01-14 11:19:03.465 W MediaServer.exe[17160-event poller 0] RtspSession.cpp:65 onError | 10-712(127.0.0.1:63693) RTSP播放器(__defaultVhost__/live/test)断开:recv teardown request,耗时(s):1663
+2023-01-14 11:19:03.465 D MediaServer.exe[17160-event poller 0] RtspSession.cpp:59 ~RtspSession | 10-712(127.0.0.1:63693) 
+2023-01-14 11:20:04.665 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 11:23:03.736 D MediaServer.exe[17160-event poller 4] RtspSession.cpp:53 RtspSession | 25-764(127.0.0.1:62885) 
+2023-01-14 11:23:04.597 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注册:rtsp __defaultVhost__ live test
+2023-01-14 11:23:06.298 D MediaServer.exe[17160-event poller 4] MediaSink.cpp:136 emitAllTrackReady | all track ready use 2537ms
+2023-01-14 11:23:06.298 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注册:fmp4 __defaultVhost__ live test
+2023-01-14 11:23:06.298 I MediaServer.exe[17160-event poller 4] MultiMediaSourceMuxer.cpp:318 onAllTrackReady | stream: rtsp://127.0.0.1:554/live/test , codec info: H264[1920/1080/25] mpeg4-generic[44100/2/16] 
+2023-01-14 11:23:06.298 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注册:rtmp __defaultVhost__ live test
+2023-01-14 11:23:06.299 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注册:ts __defaultVhost__ live test
+2023-01-14 11:23:06.301 W MediaServer.exe[17160-event poller 4] HlsMaker.cpp:82 inputData | stamp reduce: 2924305895 -> 2924305815
+2023-01-14 11:23:06.301 W MediaServer.exe[17160-event poller 4] HlsMaker.cpp:82 inputData | stamp reduce: 2924305815 -> 2924305775
+2023-01-14 11:23:06.302 W MediaServer.exe[17160-event poller 4] HlsMaker.cpp:82 inputData | stamp reduce: 2924305855 -> 2924305815
+2023-01-14 11:23:12.544 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 26-780(127.0.0.1:62930) 
+2023-01-14 11:23:12.545 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:5095
+
+2023-01-14 11:23:12.546 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 26-780(127.0.0.1:62930) end of file
+2023-01-14 11:23:12.546 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 26-780(127.0.0.1:62930) 
+2023-01-14 11:23:14.657 W MediaServer.exe[17160-event poller 15] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 11:23:14.657 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 27-788(127.0.0.1:62937) 
+2023-01-14 11:23:14.658 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:5099
+
+2023-01-14 11:23:14.670 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注册:hls __defaultVhost__ live test
+2023-01-14 11:23:14.671 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 27-788(127.0.0.1:62937) end of file
+2023-01-14 11:23:14.671 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 27-788(127.0.0.1:62937) 
+2023-01-14 11:23:46.346 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 28-776(127.0.0.1:63030) 
+2023-01-14 11:23:46.371 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 11:23:46.372 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 28-776(127.0.0.1:63030) end of file
+2023-01-14 11:23:46.372 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 28-776(127.0.0.1:63030) 
+2023-01-14 11:23:48.444 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 29-728(127.0.0.1:63042) 
+2023-01-14 11:23:48.446 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 11:23:48.447 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 29-728(127.0.0.1:63042) end of file
+2023-01-14 11:23:48.447 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 29-728(127.0.0.1:63042) 
+2023-01-14 11:23:49.100 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 30-740(127.0.0.1:63046) 
+2023-01-14 11:23:49.115 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 11:23:49.116 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 30-740(127.0.0.1:63046) end of file
+2023-01-14 11:23:49.116 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 30-740(127.0.0.1:63046) 
+2023-01-14 11:23:53.553 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 31-740(127.0.0.1:63064) 
+2023-01-14 11:23:53.554 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 11:23:53.555 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 31-740(127.0.0.1:63064) end of file
+2023-01-14 11:23:53.555 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 31-740(127.0.0.1:63064) 
+2023-01-14 11:24:15.807 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 32-796(127.0.0.1:63146) 
+2023-01-14 11:24:15.824 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 11:24:15.825 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 32-796(127.0.0.1:63146) end of file
+2023-01-14 11:24:15.825 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 32-796(127.0.0.1:63146) 
+2023-01-14 11:24:16.470 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 33-796(127.0.0.1:63150) 
+2023-01-14 11:24:16.472 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 11:24:16.473 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 33-796(127.0.0.1:63150) end of file
+2023-01-14 11:24:16.473 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 33-796(127.0.0.1:63150) 
+2023-01-14 11:24:17.535 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 34-712(127.0.0.1:63160) 
+2023-01-14 11:24:17.537 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 11:24:17.538 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 34-712(127.0.0.1:63160) end of file
+2023-01-14 11:24:17.538 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 34-712(127.0.0.1:63160) 
+2023-01-14 11:24:18.717 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 35-792(127.0.0.1:63167) 
+2023-01-14 11:24:18.719 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 11:24:18.719 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 35-792(127.0.0.1:63167) end of file
+2023-01-14 11:24:18.719 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 35-792(127.0.0.1:63167) 
+2023-01-14 11:24:27.225 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:27 HttpSession | 36-800(127.0.0.1:63195) 
+2023-01-14 11:24:27.228 D MediaServer.exe[17160-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 11:24:27.229 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:121 onError | 36-800(127.0.0.1:63195) end of file
+2023-01-14 11:24:27.229 T MediaServer.exe[17160-event poller 4] HttpSession.cpp:33 ~HttpSession | 36-800(127.0.0.1:63195) 
+2023-01-14 11:25:08.175 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:27 HttpSession | 37-744(127.0.0.1:63391) 
+2023-01-14 11:25:08.177 D MediaServer.exe[17160-event poller 5] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6369
+
+2023-01-14 11:25:08.177 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:121 onError | 37-744(127.0.0.1:63391) end of file
+2023-01-14 11:25:08.177 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:33 ~HttpSession | 37-744(127.0.0.1:63391) 
+2023-01-14 11:25:13.291 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:27 HttpSession | 38-796(127.0.0.1:63412) 
+2023-01-14 11:25:13.293 D MediaServer.exe[17160-event poller 5] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6369
+
+2023-01-14 11:25:13.293 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:121 onError | 38-796(127.0.0.1:63412) end of file
+2023-01-14 11:25:13.293 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:33 ~HttpSession | 38-796(127.0.0.1:63412) 
+2023-01-14 11:27:12.855 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:27 HttpSession | 39-804(127.0.0.1:63799) 
+2023-01-14 11:27:12.857 D MediaServer.exe[17160-event poller 5] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6369
+
+2023-01-14 11:27:12.858 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:121 onError | 39-804(127.0.0.1:63799) end of file
+2023-01-14 11:27:12.858 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:33 ~HttpSession | 39-804(127.0.0.1:63799) 
+2023-01-14 11:27:17.492 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:27 HttpSession | 40-756(127.0.0.1:63816) 
+2023-01-14 11:27:17.494 D MediaServer.exe[17160-event poller 5] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6369
+
+2023-01-14 11:27:17.495 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:121 onError | 40-756(127.0.0.1:63816) end of file
+2023-01-14 11:27:17.495 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:33 ~HttpSession | 40-756(127.0.0.1:63816) 
+2023-01-14 11:27:19.795 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:27 HttpSession | 41-720(127.0.0.1:63830) 
+2023-01-14 11:27:19.797 D MediaServer.exe[17160-event poller 5] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6369
+
+2023-01-14 11:27:19.798 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:121 onError | 41-720(127.0.0.1:63830) end of file
+2023-01-14 11:27:19.798 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:33 ~HttpSession | 41-720(127.0.0.1:63830) 
+2023-01-14 11:27:23.240 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:27 HttpSession | 42-720(127.0.0.1:63842) 
+2023-01-14 11:27:23.242 D MediaServer.exe[17160-event poller 5] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6369
+
+2023-01-14 11:27:23.243 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:121 onError | 42-720(127.0.0.1:63842) end of file
+2023-01-14 11:27:23.243 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:33 ~HttpSession | 42-720(127.0.0.1:63842) 
+2023-01-14 11:30:57.361 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:27 HttpSession | 43-716(127.0.0.1:64444) 
+2023-01-14 11:30:57.464 D MediaServer.exe[17160-event poller 6] RtmpSession.cpp:21 RtmpSession | 44-720(127.0.0.1:64445) 
+2023-01-14 11:30:57.487 W MediaServer.exe[17160-event poller 6] RtmpProtocol.cpp:339 handle_C0C1 | 未打开ENABLE_OPENSSL宏，复杂握手采用简单方式处理，flash播放器可能无法播放！
+2023-01-14 11:30:57.488 T MediaServer.exe[17160-event poller 6] RtmpProtocol.cpp:683 handle_chunk | MSG_SET_CHUNK:60000
+2023-01-14 11:30:57.489 D MediaServer.exe[17160-event poller 6] RtmpSession.cpp:131 operator () | 44-720(127.0.0.1:64445) publish 回复时间:0ms
+2023-01-14 11:30:57.567 D MediaServer.exe[17160-event poller 6] MediaSink.cpp:136 emitAllTrackReady | all track ready use 80ms
+2023-01-14 11:30:57.568 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注册:fmp4 __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:30:57.568 I MediaServer.exe[17160-event poller 6] MultiMediaSourceMuxer.cpp:318 onAllTrackReady | stream: rtmp://127.0.0.1:1935/analyzer/c9d697c0398126 , codec info: H264[1920/1080/25] mpeg4-generic[44100/2/16] 
+2023-01-14 11:30:57.568 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注册:rtsp __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:30:57.568 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注册:ts __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:30:57.568 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注册:rtmp __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:30:59.789 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注册:hls __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:36:09.018 W MediaServer.exe[17160-event poller 4] EventPoller.cpp:188 async_l | take time:17ms, thread may be overloaded
+2023-01-14 11:37:23.777 W MediaServer.exe[17160-event poller 4] EventPoller.cpp:188 async_l | take time:17ms, thread may be overloaded
+2023-01-14 11:40:32.933 W MediaServer.exe[17160-event poller 4] EventPoller.cpp:188 async_l | take time:17ms, thread may be overloaded
+2023-01-14 11:40:52.167 W MediaServer.exe[17160-event poller 6] RtmpSession.cpp:33 onError | 44-720(127.0.0.1:64445) RTMP推流器(__defaultVhost__/analyzer/c9d697c0398126)断开:end of file,耗时(s):594
+2023-01-14 11:40:52.167 W MediaServer.exe[17160-event poller 5] HttpSession.cpp:105 onError | 43-716(127.0.0.1:64444) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):594
+2023-01-14 11:40:52.167 T MediaServer.exe[17160-event poller 5] HttpSession.cpp:33 ~HttpSession | 43-716(127.0.0.1:64444) 
+2023-01-14 11:40:52.167 D MediaServer.exe[17160-event poller 6] RtmpSession.cpp:27 ~RtmpSession | 44-720(127.0.0.1:64445) 
+2023-01-14 11:41:07.208 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注销:hls __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:41:07.208 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注销:ts __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:41:07.219 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注销:rtsp __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:41:07.220 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注销:fmp4 __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:41:07.221 I MediaServer.exe[17160-event poller 6] MediaSource.cpp:431 emitEvent | 媒体注销:rtmp __defaultVhost__ analyzer c9d697c0398126
+2023-01-14 11:51:43.120 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 11:54:51.573 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:27 HttpSession | 45-800(127.0.0.1:56099) 
+2023-01-14 11:54:51.575 D MediaServer.exe[17160-event poller 6] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 11:54:51.576 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:121 onError | 45-800(127.0.0.1:56099) end of file
+2023-01-14 11:54:51.576 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:33 ~HttpSession | 45-800(127.0.0.1:56099) 
+2023-01-14 11:58:26.268 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:27 HttpSession | 46-800(127.0.0.1:56726) 
+2023-01-14 11:58:26.270 D MediaServer.exe[17160-event poller 6] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 11:58:26.270 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:121 onError | 46-800(127.0.0.1:56726) end of file
+2023-01-14 11:58:26.270 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:33 ~HttpSession | 46-800(127.0.0.1:56726) 
+2023-01-14 11:58:54.234 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:27 HttpSession | 47-720(127.0.0.1:56808) 
+2023-01-14 11:58:54.236 D MediaServer.exe[17160-event poller 6] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 11:58:54.237 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:121 onError | 47-720(127.0.0.1:56808) end of file
+2023-01-14 11:58:54.237 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:33 ~HttpSession | 47-720(127.0.0.1:56808) 
+2023-01-14 11:58:55.424 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:27 HttpSession | 48-716(127.0.0.1:56818) 
+2023-01-14 11:58:55.425 D MediaServer.exe[17160-event poller 6] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 11:58:55.426 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:121 onError | 48-716(127.0.0.1:56818) end of file
+2023-01-14 11:58:55.426 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:33 ~HttpSession | 48-716(127.0.0.1:56818) 
+2023-01-14 11:59:02.875 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:27 HttpSession | 49-712(127.0.0.1:56847) 
+2023-01-14 11:59:02.898 D MediaServer.exe[17160-event poller 6] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 11:59:02.899 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:121 onError | 49-712(127.0.0.1:56847) end of file
+2023-01-14 11:59:02.899 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:33 ~HttpSession | 49-712(127.0.0.1:56847) 
+2023-01-14 11:59:27.804 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:27 HttpSession | 50-768(127.0.0.1:56920) 
+2023-01-14 11:59:27.825 D MediaServer.exe[17160-event poller 6] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 11:59:27.826 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:121 onError | 50-768(127.0.0.1:56920) end of file
+2023-01-14 11:59:27.826 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:33 ~HttpSession | 50-768(127.0.0.1:56920) 
+2023-01-14 12:00:15.687 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:27 HttpSession | 51-748(127.0.0.1:57062) 
+2023-01-14 12:00:15.701 D MediaServer.exe[17160-event poller 6] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 12:00:15.702 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:121 onError | 51-748(127.0.0.1:57062) end of file
+2023-01-14 12:00:15.702 T MediaServer.exe[17160-event poller 6] HttpSession.cpp:33 ~HttpSession | 51-748(127.0.0.1:57062) 
+2023-01-14 12:00:21.741 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 52-768(127.0.0.1:57085) 
+2023-01-14 12:00:21.743 D MediaServer.exe[17160-event poller 7] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 12:00:21.744 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:121 onError | 52-768(127.0.0.1:57085) end of file
+2023-01-14 12:00:21.744 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 52-768(127.0.0.1:57085) 
+2023-01-14 12:02:04.999 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 53-792(127.0.0.1:57382) 
+2023-01-14 12:02:05.001 D MediaServer.exe[17160-event poller 7] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 12:02:05.001 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:121 onError | 53-792(127.0.0.1:57382) end of file
+2023-01-14 12:02:05.001 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 53-792(127.0.0.1:57382) 
+2023-01-14 12:02:06.337 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 54-740(127.0.0.1:57390) 
+2023-01-14 12:02:10.342 W MediaServer.exe[17160-event poller 7] HttpSession.cpp:105 onError | 54-740(127.0.0.1:57390) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):4
+2023-01-14 12:02:10.342 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 54-740(127.0.0.1:57390) 
+2023-01-14 12:02:10.396 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 55-752(127.0.0.1:57403) 
+2023-01-14 12:02:10.416 D MediaServer.exe[17160-event poller 7] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 12:02:10.417 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:121 onError | 55-752(127.0.0.1:57403) end of file
+2023-01-14 12:02:10.417 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 55-752(127.0.0.1:57403) 
+2023-01-14 12:02:12.812 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 56-728(127.0.0.1:57417) 
+2023-01-14 12:02:12.837 D MediaServer.exe[17160-event poller 7] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6373
+
+2023-01-14 12:02:12.838 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:121 onError | 56-728(127.0.0.1:57417) end of file
+2023-01-14 12:02:12.838 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 56-728(127.0.0.1:57417) 
+2023-01-14 12:02:17.155 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 57-796(127.0.0.1:57436) 
+2023-01-14 12:02:17.157 D MediaServer.exe[17160-event poller 7] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 12:02:17.157 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:121 onError | 57-796(127.0.0.1:57436) end of file
+2023-01-14 12:02:17.157 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 57-796(127.0.0.1:57436) 
+2023-01-14 12:02:20.033 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 58-776(127.0.0.1:57448) 
+2023-01-14 12:02:20.045 D MediaServer.exe[17160-event poller 7] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 12:02:20.046 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:121 onError | 58-776(127.0.0.1:57448) end of file
+2023-01-14 12:02:20.046 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 58-776(127.0.0.1:57448) 
+2023-01-14 12:02:22.403 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 59-744(127.0.0.1:57456) 
+2023-01-14 12:02:25.491 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 60-776(127.0.0.1:57466) 
+2023-01-14 12:02:25.501 W MediaServer.exe[17160-event poller 7] HttpSession.cpp:105 onError | 59-744(127.0.0.1:57456) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):3
+2023-01-14 12:02:25.501 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 59-744(127.0.0.1:57456) 
+2023-01-14 12:02:42.852 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 61-744(127.0.0.1:57519) 
+2023-01-14 12:02:44.524 D MediaServer.exe[17160-event poller 7] RtmpSession.cpp:21 RtmpSession | 62-724(127.0.0.1:57524) 
+2023-01-14 12:02:44.524 W MediaServer.exe[17160-event poller 7] RtmpProtocol.cpp:339 handle_C0C1 | 未打开ENABLE_OPENSSL宏，复杂握手采用简单方式处理，flash播放器可能无法播放！
+2023-01-14 12:02:44.524 T MediaServer.exe[17160-event poller 7] RtmpProtocol.cpp:683 handle_chunk | MSG_SET_CHUNK:60000
+2023-01-14 12:02:44.538 D MediaServer.exe[17160-event poller 7] RtmpSession.cpp:131 operator () | 62-724(127.0.0.1:57524) publish 回复时间:0ms
+2023-01-14 12:02:44.542 D MediaServer.exe[17160-event poller 7] MediaSink.cpp:136 emitAllTrackReady | all track ready use 0ms
+2023-01-14 12:02:44.542 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注册:fmp4 __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:02:44.543 I MediaServer.exe[17160-event poller 7] MultiMediaSourceMuxer.cpp:318 onAllTrackReady | stream: rtmp://127.0.0.1:1935/analyzer/c3bb1742398017 , codec info: H264[1920/1080/25] mpeg4-generic[44100/2/16] 
+2023-01-14 12:02:44.543 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注册:rtsp __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:02:44.543 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注册:ts __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:02:44.543 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注册:rtmp __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:02:44.697 W MediaServer.exe[17160-event poller 4] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 12:02:46.682 W MediaServer.exe[17160-event poller 7] HttpSession.cpp:105 onError | 60-776(127.0.0.1:57466) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):21
+2023-01-14 12:02:46.682 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 60-776(127.0.0.1:57466) 
+2023-01-14 12:02:46.744 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 63-788(127.0.0.1:57540) 
+2023-01-14 12:02:46.748 D MediaServer.exe[17160-event poller 7] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:11556
+
+2023-01-14 12:02:46.750 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:121 onError | 63-788(127.0.0.1:57540) end of file
+2023-01-14 12:02:46.750 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 63-788(127.0.0.1:57540) 
+2023-01-14 12:02:48.011 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注册:hls __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:03:56.765 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 64-800(127.0.0.1:58231) 
+2023-01-14 12:03:56.769 D MediaServer.exe[17160-event poller 7] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12853
+
+2023-01-14 12:03:56.770 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:121 onError | 64-800(127.0.0.1:58231) end of file
+2023-01-14 12:03:56.770 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 64-800(127.0.0.1:58231) 
+2023-01-14 12:04:01.471 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:27 HttpSession | 65-780(127.0.0.1:58279) 
+2023-01-14 12:04:15.293 W MediaServer.exe[17160-event poller 7] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 12:04:16.824 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:27 HttpSession | 66-788(127.0.0.1:58427) 
+2023-01-14 12:04:16.842 D MediaServer.exe[17160-event poller 11] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12856
+
+2023-01-14 12:04:16.844 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:121 onError | 66-788(127.0.0.1:58427) end of file
+2023-01-14 12:04:16.844 T MediaServer.exe[17160-event poller 11] HttpSession.cpp:33 ~HttpSession | 66-788(127.0.0.1:58427) 
+2023-01-14 12:04:22.401 W MediaServer.exe[17160-event poller 7] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 12:04:24.713 W MediaServer.exe[17160-event poller 7] HttpSession.cpp:105 onError | 61-744(127.0.0.1:57519) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):101
+2023-01-14 12:04:24.713 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 61-744(127.0.0.1:57519) 
+2023-01-14 12:04:24.714 W MediaServer.exe[17160-event poller 7] RtmpSession.cpp:33 onError | 62-724(127.0.0.1:57524) RTMP推流器(__defaultVhost__/analyzer/c3bb1742398017)断开:end of file,耗时(s):100
+2023-01-14 12:04:24.714 D MediaServer.exe[17160-event poller 7] RtmpSession.cpp:27 ~RtmpSession | 62-724(127.0.0.1:57524) 
+2023-01-14 12:04:28.198 W MediaServer.exe[17160-event poller 7] HttpSession.cpp:105 onError | 65-780(127.0.0.1:58279) FLV/TS/FMP4播放器(__defaultVhost__/analyzer/c3bb1742398017)断开:end of file,耗时(s):26
+2023-01-14 12:04:28.198 T MediaServer.exe[17160-event poller 7] HttpSession.cpp:33 ~HttpSession | 65-780(127.0.0.1:58279) 
+2023-01-14 12:04:39.763 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注销:hls __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:04:39.763 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注销:ts __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:04:39.767 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注销:rtsp __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:04:39.768 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注销:fmp4 __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:04:39.777 I MediaServer.exe[17160-event poller 7] MediaSource.cpp:431 emitEvent | 媒体注销:rtmp __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 12:18:25.674 W MediaServer.exe[17160-event poller 0] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 12:21:11.437 W MediaServer.exe[17160-event poller 4] RtspSession.cpp:65 onError | 25-764(127.0.0.1:62885) RTSP推流器(__defaultVhost__/live/test)断开:connection reset by peer,耗时(s):3487
+2023-01-14 12:21:11.437 D MediaServer.exe[17160-event poller 4] RtspSession.cpp:59 ~RtspSession | 25-764(127.0.0.1:62885) 
+2023-01-14 12:21:26.457 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注销:hls __defaultVhost__ live test
+2023-01-14 12:21:26.458 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注销:ts __defaultVhost__ live test
+2023-01-14 12:21:26.458 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注销:rtmp __defaultVhost__ live test
+2023-01-14 12:21:26.462 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注销:fmp4 __defaultVhost__ live test
+2023-01-14 12:21:26.464 I MediaServer.exe[17160-event poller 4] MediaSource.cpp:431 emitEvent | 媒体注销:rtsp __defaultVhost__ live test
+2023-01-14 13:32:01.515 D MediaServer.exe[5000-stamp thread] util.cpp:341 operator () | Stamp thread started!
+2023-01-14 13:32:01.524 I MediaServer.exe[5000-19584] EventPoller.cpp:453 EventPollerPool | 创建EventPoller个数:16
+2023-01-14 13:32:01.528 I MediaServer.exe[5000-19584] TcpServer.cpp:199 start_l | TCP Server listening on [::]:554
+2023-01-14 13:32:01.530 I MediaServer.exe[5000-19584] TcpServer.cpp:199 start_l | TCP Server listening on [::]:1935
+2023-01-14 13:32:01.532 I MediaServer.exe[5000-19584] TcpServer.cpp:199 start_l | TCP Server listening on [::]:80
+2023-01-14 13:32:01.533 I MediaServer.exe[5000-19584] TcpServer.cpp:199 start_l | TCP Server listening on [::]:443
+2023-01-14 13:32:01.535 I MediaServer.exe[5000-19584] TcpServer.cpp:199 start_l | TCP Server listening on [::]:10000
+2023-01-14 13:32:01.539 I MediaServer.exe[5000-19584] UdpServer.cpp:104 start_l | UDP Server bind to [::]:10000
+2023-01-14 13:32:01.541 I MediaServer.exe[5000-19584] main.cpp:330 start_main | 已启动http api 接口
+2023-01-14 13:32:01.541 I MediaServer.exe[5000-19584] main.cpp:332 start_main | 已启动http hook 接口
+2023-01-14 13:32:24.686 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:27 HttpSession | 1-640(127.0.0.1:51874) 
+2023-01-14 13:32:24.710 D MediaServer.exe[5000-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 13:32:24.711 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:121 onError | 1-640(127.0.0.1:51874) end of file
+2023-01-14 13:32:24.711 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:33 ~HttpSession | 1-640(127.0.0.1:51874) 
+2023-01-14 13:32:29.310 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:27 HttpSession | 2-712(127.0.0.1:51879) 
+2023-01-14 13:32:29.310 D MediaServer.exe[5000-event poller 1] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response:
+{
+   "code" : 0
+}
+
+
+2023-01-14 13:32:29.311 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:121 onError | 2-712(127.0.0.1:51879) end of file
+2023-01-14 13:32:29.311 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:33 ~HttpSession | 2-712(127.0.0.1:51879) 
+2023-01-14 13:33:43.790 D MediaServer.exe[5000-event poller 1] RtmpSession.cpp:21 RtmpSession | 3-640(127.0.0.1:51892) 
+2023-01-14 13:33:43.790 W MediaServer.exe[5000-event poller 1] RtmpProtocol.cpp:339 handle_C0C1 | 未打开ENABLE_OPENSSL宏，复杂握手采用简单方式处理，flash播放器可能无法播放！
+2023-01-14 13:33:43.792 T MediaServer.exe[5000-event poller 1] RtmpProtocol.cpp:683 handle_chunk | MSG_SET_CHUNK:60000
+2023-01-14 13:33:43.793 W MediaServer.exe[5000-event poller 1] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:33:43.799 D MediaServer.exe[5000-event poller 1] RtmpSession.cpp:131 operator () | 3-640(127.0.0.1:51892) publish 回复时间:16ms
+2023-01-14 13:33:48.114 I MediaServer.exe[5000-event poller 1] MediaSource.cpp:431 emitEvent | 媒体注册:rtmp __defaultVhost__ live test
+2023-01-14 13:33:48.174 D MediaServer.exe[5000-event poller 1] MediaSink.cpp:136 emitAllTrackReady | all track ready use 2792ms
+2023-01-14 13:33:48.175 I MediaServer.exe[5000-event poller 1] MediaSource.cpp:431 emitEvent | 媒体注册:fmp4 __defaultVhost__ live test
+2023-01-14 13:33:48.176 I MediaServer.exe[5000-event poller 1] MultiMediaSourceMuxer.cpp:318 onAllTrackReady | stream: rtmp://127.0.0.1:1935/live/test , codec info: H264[1920/1080/25] mpeg4-generic[44100/2/16] 
+2023-01-14 13:33:48.176 I MediaServer.exe[5000-event poller 1] MediaSource.cpp:431 emitEvent | 媒体注册:rtsp __defaultVhost__ live test
+2023-01-14 13:33:48.177 I MediaServer.exe[5000-event poller 1] MediaSource.cpp:431 emitEvent | 媒体注册:ts __defaultVhost__ live test
+2023-01-14 13:33:52.032 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:27 HttpSession | 4-636(127.0.0.1:51897) 
+2023-01-14 13:33:52.034 D MediaServer.exe[5000-event poller 1] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:5095
+
+2023-01-14 13:33:52.036 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:121 onError | 4-636(127.0.0.1:51897) end of file
+2023-01-14 13:33:52.036 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:33 ~HttpSession | 4-636(127.0.0.1:51897) 
+2023-01-14 13:33:58.134 I MediaServer.exe[5000-event poller 1] MediaSource.cpp:431 emitEvent | 媒体注册:hls __defaultVhost__ live test
+2023-01-14 13:34:16.273 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:27 HttpSession | 5-716(127.0.0.1:51903) 
+2023-01-14 13:34:31.395 W MediaServer.exe[5000-event poller 1] HttpSession.cpp:105 onError | 5-716(127.0.0.1:51903) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):15
+2023-01-14 13:34:31.395 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:33 ~HttpSession | 5-716(127.0.0.1:51903) 
+2023-01-14 13:34:32.817 T MediaServer.exe[5000-event poller 5] HttpSession.cpp:27 HttpSession | 6-720(127.0.0.1:51911) 
+2023-01-14 13:34:32.841 D MediaServer.exe[5000-event poller 5] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6364
+
+2023-01-14 13:34:32.841 T MediaServer.exe[5000-event poller 5] HttpSession.cpp:121 onError | 6-720(127.0.0.1:51911) end of file
+2023-01-14 13:34:32.842 T MediaServer.exe[5000-event poller 5] HttpSession.cpp:33 ~HttpSession | 6-720(127.0.0.1:51911) 
+2023-01-14 13:41:58.420 T MediaServer.exe[5000-event poller 5] HttpSession.cpp:27 HttpSession | 7-720(127.0.0.1:51977) 
+2023-01-14 13:41:58.422 D MediaServer.exe[5000-event poller 5] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6369
+
+2023-01-14 13:41:58.422 T MediaServer.exe[5000-event poller 5] HttpSession.cpp:121 onError | 7-720(127.0.0.1:51977) end of file
+2023-01-14 13:41:58.422 T MediaServer.exe[5000-event poller 5] HttpSession.cpp:33 ~HttpSession | 7-720(127.0.0.1:51977) 
+2023-01-14 13:42:05.023 T MediaServer.exe[5000-event poller 5] HttpSession.cpp:27 HttpSession | 8-736(127.0.0.1:51981) 
+2023-01-14 13:42:05.024 W MediaServer.exe[5000-event poller 5] EventPoller.cpp:188 async_l | take time:32ms, thread may be overloaded
+2023-01-14 13:42:07.204 W MediaServer.exe[5000-event poller 5] HttpSession.cpp:105 onError | 8-736(127.0.0.1:51981) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):2
+2023-01-14 13:42:07.204 T MediaServer.exe[5000-event poller 5] HttpSession.cpp:33 ~HttpSession | 8-736(127.0.0.1:51981) 
+2023-01-14 13:42:07.279 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:27 HttpSession | 9-736(127.0.0.1:51984) 
+2023-01-14 13:42:07.282 D MediaServer.exe[5000-event poller 9] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6369
+
+2023-01-14 13:42:07.283 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:121 onError | 9-736(127.0.0.1:51984) end of file
+2023-01-14 13:42:07.283 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:33 ~HttpSession | 9-736(127.0.0.1:51984) 
+2023-01-14 13:42:33.373 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:27 HttpSession | 10-728(127.0.0.1:51996) 
+2023-01-14 13:42:33.376 D MediaServer.exe[5000-event poller 9] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6369
+
+2023-01-14 13:42:33.378 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:121 onError | 10-728(127.0.0.1:51996) end of file
+2023-01-14 13:42:33.378 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:33 ~HttpSession | 10-728(127.0.0.1:51996) 
+2023-01-14 13:43:06.631 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:27 HttpSession | 11-740(127.0.0.1:52004) 
+2023-01-14 13:43:11.648 W MediaServer.exe[5000-event poller 9] HttpSession.cpp:105 onError | 11-740(127.0.0.1:52004) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):5
+2023-01-14 13:43:11.648 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:33 ~HttpSession | 11-740(127.0.0.1:52004) 
+2023-01-14 13:43:38.073 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:27 HttpSession | 12-744(127.0.0.1:52011) 
+2023-01-14 13:43:39.716 D MediaServer.exe[5000-event poller 9] RtmpSession.cpp:21 RtmpSession | 13-728(127.0.0.1:52012) 
+2023-01-14 13:43:39.731 W MediaServer.exe[5000-event poller 9] RtmpProtocol.cpp:339 handle_C0C1 | 未打开ENABLE_OPENSSL宏，复杂握手采用简单方式处理，flash播放器可能无法播放！
+2023-01-14 13:43:39.732 T MediaServer.exe[5000-event poller 9] RtmpProtocol.cpp:683 handle_chunk | MSG_SET_CHUNK:60000
+2023-01-14 13:43:39.733 D MediaServer.exe[5000-event poller 9] RtmpSession.cpp:131 operator () | 13-728(127.0.0.1:52012) publish 回复时间:0ms
+2023-01-14 13:43:39.747 D MediaServer.exe[5000-event poller 9] MediaSink.cpp:136 emitAllTrackReady | all track ready use 16ms
+2023-01-14 13:43:39.748 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注册:fmp4 __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 13:43:39.748 I MediaServer.exe[5000-event poller 9] MultiMediaSourceMuxer.cpp:318 onAllTrackReady | stream: rtmp://127.0.0.1:1935/analyzer/c3bb1742398017 , codec info: H264[1920/1080/25] mpeg4-generic[44100/2/16] 
+2023-01-14 13:43:39.748 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注册:rtsp __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 13:43:39.749 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注册:ts __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 13:43:39.749 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注册:rtmp __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 13:43:42.660 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注册:hls __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 13:43:45.703 T MediaServer.exe[5000-event poller 11] HttpSession.cpp:27 HttpSession | 14-748(127.0.0.1:52046) 
+2023-01-14 13:43:55.544 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:43:56.536 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:44:28.309 W MediaServer.exe[5000-event poller 1] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:44:36.220 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:44:37.330 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:44:49.852 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:44:53.456 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:45:11.884 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:45:11.884 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:45:19.825 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:45:45.762 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:45:53.407 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:46:06.713 W MediaServer.exe[5000-event poller 11] HttpSession.cpp:105 onError | 14-748(127.0.0.1:52046) FLV/TS/FMP4播放器(__defaultVhost__/analyzer/c3bb1742398017)断开:end of file,耗时(s):141
+2023-01-14 13:46:06.713 T MediaServer.exe[5000-event poller 11] HttpSession.cpp:33 ~HttpSession | 14-748(127.0.0.1:52046) 
+2023-01-14 13:46:06.863 T MediaServer.exe[5000-event poller 12] HttpSession.cpp:27 HttpSession | 15-712(127.0.0.1:52888) 
+2023-01-14 13:46:06.891 D MediaServer.exe[5000-event poller 12] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12855
+
+2023-01-14 13:46:06.893 T MediaServer.exe[5000-event poller 12] HttpSession.cpp:121 onError | 15-712(127.0.0.1:52888) end of file
+2023-01-14 13:46:06.893 T MediaServer.exe[5000-event poller 12] HttpSession.cpp:33 ~HttpSession | 15-712(127.0.0.1:52888) 
+2023-01-14 13:46:17.489 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:27 HttpSession | 16-760(127.0.0.1:52957) 
+2023-01-14 13:46:17.494 D MediaServer.exe[5000-event poller 15] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12855
+
+2023-01-14 13:46:17.496 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:121 onError | 16-760(127.0.0.1:52957) end of file
+2023-01-14 13:46:17.496 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:33 ~HttpSession | 16-760(127.0.0.1:52957) 
+2023-01-14 13:46:20.867 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:27 HttpSession | 17-736(127.0.0.1:52984) 
+2023-01-14 13:46:47.868 W MediaServer.exe[5000-event poller 15] HttpSession.cpp:105 onError | 17-736(127.0.0.1:52984) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):26
+2023-01-14 13:46:47.868 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:33 ~HttpSession | 17-736(127.0.0.1:52984) 
+2023-01-14 13:46:47.983 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:27 HttpSession | 18-760(127.0.0.1:53138) 
+2023-01-14 13:46:47.989 D MediaServer.exe[5000-event poller 15] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12853
+
+2023-01-14 13:46:47.990 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:121 onError | 18-760(127.0.0.1:53138) end of file
+2023-01-14 13:46:47.990 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:33 ~HttpSession | 18-760(127.0.0.1:53138) 
+2023-01-14 13:46:49.662 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:27 HttpSession | 19-764(127.0.0.1:53153) 
+2023-01-14 13:46:54.009 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:47:05.720 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:47:26.904 W MediaServer.exe[5000-event poller 15] HttpSession.cpp:105 onError | 19-764(127.0.0.1:53153) FLV/TS/FMP4播放器(__defaultVhost__/analyzer/c3bb1742398017)断开:end of file,耗时(s):37
+2023-01-14 13:47:26.904 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:33 ~HttpSession | 19-764(127.0.0.1:53153) 
+2023-01-14 13:47:26.999 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:27 HttpSession | 20-736(127.0.0.1:53281) 
+2023-01-14 13:47:27.016 D MediaServer.exe[5000-event poller 15] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12841
+
+2023-01-14 13:47:27.018 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:121 onError | 20-736(127.0.0.1:53281) end of file
+2023-01-14 13:47:27.018 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:33 ~HttpSession | 20-736(127.0.0.1:53281) 
+2023-01-14 13:48:04.524 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:27 HttpSession | 21-760(127.0.0.1:53292) 
+2023-01-14 13:48:04.531 D MediaServer.exe[5000-event poller 15] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12841
+
+2023-01-14 13:48:04.532 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:121 onError | 21-760(127.0.0.1:53292) end of file
+2023-01-14 13:48:04.532 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:33 ~HttpSession | 21-760(127.0.0.1:53292) 
+2023-01-14 13:48:06.807 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:27 HttpSession | 22-768(127.0.0.1:53298) 
+2023-01-14 13:48:21.188 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:48:55.986 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 13:48:58.338 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:49:04.002 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:49:06.687 W MediaServer.exe[5000-event poller 9] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:49:08.372 W MediaServer.exe[5000-event poller 15] HttpSession.cpp:105 onError | 22-768(127.0.0.1:53298) FLV/TS/FMP4播放器(__defaultVhost__/analyzer/c3bb1742398017)断开:end of file,耗时(s):61
+2023-01-14 13:49:08.372 T MediaServer.exe[5000-event poller 15] HttpSession.cpp:33 ~HttpSession | 22-768(127.0.0.1:53298) 
+2023-01-14 13:49:08.506 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:27 HttpSession | 23-772(127.0.0.1:53312) 
+2023-01-14 13:49:08.513 D MediaServer.exe[5000-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12855
+
+2023-01-14 13:49:08.514 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:121 onError | 23-772(127.0.0.1:53312) end of file
+2023-01-14 13:49:08.515 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:33 ~HttpSession | 23-772(127.0.0.1:53312) 
+2023-01-14 13:49:10.100 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:27 HttpSession | 24-776(127.0.0.1:53318) 
+2023-01-14 13:49:10.101 W MediaServer.exe[5000-event poller 0] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:49:45.087 W MediaServer.exe[5000-event poller 0] HttpSession.cpp:105 onError | 24-776(127.0.0.1:53318) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):34
+2023-01-14 13:49:45.088 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:33 ~HttpSession | 24-776(127.0.0.1:53318) 
+2023-01-14 13:49:45.209 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:27 HttpSession | 25-772(127.0.0.1:53328) 
+2023-01-14 13:49:45.214 D MediaServer.exe[5000-event poller 0] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:12856
+
+2023-01-14 13:49:45.215 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:121 onError | 25-772(127.0.0.1:53328) end of file
+2023-01-14 13:49:45.215 T MediaServer.exe[5000-event poller 0] HttpSession.cpp:33 ~HttpSession | 25-772(127.0.0.1:53328) 
+2023-01-14 13:51:33.954 W MediaServer.exe[5000-event poller 0] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 13:54:11.598 W MediaServer.exe[5000-event poller 9] RtmpSession.cpp:33 onError | 13-728(127.0.0.1:52012) RTMP推流器(__defaultVhost__/analyzer/c3bb1742398017)断开:end of file,耗时(s):631
+2023-01-14 13:54:11.599 D MediaServer.exe[5000-event poller 9] RtmpSession.cpp:27 ~RtmpSession | 13-728(127.0.0.1:52012) 
+2023-01-14 13:54:11.599 W MediaServer.exe[5000-event poller 9] HttpSession.cpp:105 onError | 12-744(127.0.0.1:52011) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):633
+2023-01-14 13:54:11.599 T MediaServer.exe[5000-event poller 9] HttpSession.cpp:33 ~HttpSession | 12-744(127.0.0.1:52011) 
+2023-01-14 13:54:26.631 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注销:hls __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 13:54:26.631 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注销:ts __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 13:54:26.640 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注销:rtsp __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 13:54:26.640 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注销:fmp4 __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 13:54:26.641 I MediaServer.exe[5000-event poller 9] MediaSource.cpp:431 emitEvent | 媒体注销:rtmp __defaultVhost__ analyzer c3bb1742398017
+2023-01-14 14:00:15.097 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:27 HttpSession | 26-784(127.0.0.1:53851) 
+2023-01-14 14:00:15.101 D MediaServer.exe[5000-event poller 1] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 14:00:15.102 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:121 onError | 26-784(127.0.0.1:53851) end of file
+2023-01-14 14:00:15.102 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:33 ~HttpSession | 26-784(127.0.0.1:53851) 
+2023-01-14 14:00:16.670 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:27 HttpSession | 27-740(127.0.0.1:53856) 
+2023-01-14 14:00:16.689 D MediaServer.exe[5000-event poller 1] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 14:00:16.690 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:121 onError | 27-740(127.0.0.1:53856) end of file
+2023-01-14 14:00:16.690 T MediaServer.exe[5000-event poller 1] HttpSession.cpp:33 ~HttpSession | 27-740(127.0.0.1:53856) 
+2023-01-14 14:00:23.944 T MediaServer.exe[5000-event poller 3] HttpSession.cpp:27 HttpSession | 28-776(127.0.0.1:53863) 
+2023-01-14 14:00:29.850 T MediaServer.exe[5000-event poller 3] HttpSession.cpp:121 onError | 28-776(127.0.0.1:53863) end of file
+2023-01-14 14:00:29.850 T MediaServer.exe[5000-event poller 3] HttpSession.cpp:33 ~HttpSession | 28-776(127.0.0.1:53863) 
+2023-01-14 14:00:29.910 T MediaServer.exe[5000-event poller 3] HttpSession.cpp:27 HttpSession | 29-744(127.0.0.1:53867) 
+2023-01-14 14:00:32.066 T MediaServer.exe[5000-event poller 3] HttpSession.cpp:121 onError | 29-744(127.0.0.1:53867) end of file
+2023-01-14 14:00:32.066 T MediaServer.exe[5000-event poller 3] HttpSession.cpp:33 ~HttpSession | 29-744(127.0.0.1:53867) 
+2023-01-14 14:00:32.066 W MediaServer.exe[5000-event poller 3] EventPoller.cpp:188 async_l | take time:16ms, thread may be overloaded
+2023-01-14 14:00:35.417 T MediaServer.exe[5000-event poller 4] HttpSession.cpp:27 HttpSession | 30-788(127.0.0.1:53871) 
+2023-01-14 14:00:35.417 W MediaServer.exe[5000-event poller 4] EventPoller.cpp:188 async_l | take time:15ms, thread may be overloaded
+2023-01-14 14:01:55.081 W MediaServer.exe[5000-event poller 4] HttpSession.cpp:105 onError | 30-788(127.0.0.1:53871) FLV/TS/FMP4播放器(__defaultVhost__/live/test)断开:end of file,耗时(s):79
+2023-01-14 14:01:55.081 T MediaServer.exe[5000-event poller 4] HttpSession.cpp:33 ~HttpSession | 30-788(127.0.0.1:53871) 
+2023-01-14 14:01:55.177 T MediaServer.exe[5000-event poller 4] HttpSession.cpp:27 HttpSession | 31-764(127.0.0.1:53904) 
+2023-01-14 14:01:55.181 D MediaServer.exe[5000-event poller 4] WebApi.cpp:243 http api debug | 
+# request:
+GET /index/api/getMediaList?secret=035c73f7-bb6b-4889-a715-d9eb2d1925cc
+# header:
+Accept : */*
+Accept-Encoding : gzip, deflate
+Connection : keep-alive
+Host : 127.0.0.1
+User-Agent : python-requests/2.21.0
+# content:
+
+# response size:6374
+
+2023-01-14 14:01:55.183 T MediaServer.exe[5000-event poller 4] HttpSession.cpp:121 onError | 31-764(127.0.0.1:53904) end of file
+2023-01-14 14:01:55.183 T MediaServer.exe[5000-event poller 4] HttpSession.cpp:33 ~HttpSession | 31-764(127.0.0.1:53904) 
+2023-01-14 14:08:59.541 I MediaServer.exe[5000-16372] main.cpp:337 operator () | SIGINT:exit
+2023-01-14 14:08:59.542 I MediaServer.exe[5000-19584] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:10000
+2023-01-14 14:08:59.544 I MediaServer.exe[5000-19584] UdpServer.cpp:55 ~UdpServer | close udp server [::]:10000
+2023-01-14 14:08:59.547 I MediaServer.exe[5000-19584] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:443
+2023-01-14 14:08:59.547 I MediaServer.exe[5000-19584] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:80
+2023-01-14 14:08:59.548 I MediaServer.exe[5000-19584] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:1935
+2023-01-14 14:08:59.548 W MediaServer.exe[5000-19584] RtmpSession.cpp:33 onError | 3-640(127.0.0.1:51892) RTMP推流器(__defaultVhost__/live/test)断开:Server shutdown!,耗时(s):2115
+2023-01-14 14:08:59.548 D MediaServer.exe[5000-19584] RtmpSession.cpp:27 ~RtmpSession | 3-640(127.0.0.1:51892) 
+2023-01-14 14:08:59.549 I MediaServer.exe[5000-19584] TcpServer.cpp:40 ~TcpServer | close tcp server [::]:554
+2023-01-14 14:08:59.550 I MediaServer.exe[5000-19584] main.cpp:350 start_main | 程序退出中,请等待...
+2023-01-14 14:09:00.564 I MediaServer.exe[5000-19584] main.cpp:352 start_main | 程序退出完毕!
+2023-01-14 14:09:00.565 I MediaServer.exe[5000-19584] EventPoller.cpp:90 ~EventPoller | 0000024861553430
+2023-01-14 14:09:00.566 I MediaServer.exe[5000-19584] EventPoller.cpp:90 ~EventPoller | 0000024861551C60
+2023-01-14 14:09:00.567 I MediaServer.exe[5000-19584] EventPoller.cpp:90 ~EventPoller | 000002486154A720
+2023-01-14 14:09:00.567 I MediaServer.exe[5000-19584] EventPoller.cpp:90 ~EventPoller | 0000024861574670
+2023-01-14 14:09:00.567 I MediaServer.exe[5000-19584] EventPoller.cpp:90 ~EventPoller | 000002486157C2A0
+2023-01-14 14:09:00.568 I MediaServer.exe[5000-19584] EventPoller.cpp:90 ~EventPoller | 00000248615A4EA0
+2023-01-14 14:09:00.568 I MediaServer.exe[5000-19584] EventPoller.cpp:90 ~EventPoller | 00000248615A59D0

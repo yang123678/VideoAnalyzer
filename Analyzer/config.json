@@ -1,0 +1,17 @@
+// config.json
+{
+  "adminHost": "http://127.0.0.1:9001",
+  "rootVideoDir": "D:\\Project\\bxc\\BXC_VideoAnalyzer\\data",
+  "subVideoDirFormat": "%Y/%m/%d-%H-%M",
+  "controlExecutorMaxNum": 200,
+  "supportHardwareVideoDecode": false,
+  "supportHardwareVideoEncode": false,
+  "algorithmType": "api", // py:基于python实现的算法 api:基于api接口实现的算法
+  "algorithmInstanceNum": 1, // 算法实例数量
+  "algorithmPath": "D:\\Project\\bxc\\BXC_VideoAnalyzer\\Algorithm",
+  "algorithmDevice": "cpu",
+  "algorithmApiHosts": [
+    "http://127.0.0.1:9003"
+  ]
+
+}
