@@ -21,3 +21,13 @@
 基于zlmediakit实现的流媒体服务，用于将监控视频流拉到实现的服务，然后用算法分析服务转发的视频流。
 使用zlmediakit直接编译生成的软件，目前只实现了Windows版本的MediaServer，支持rtmp拉流、rtsp拉流和rtsp、rtmp、flv的分发。
 在本项目中，在模拟分析视频中主要使用rtsp、rtmp推流，在分析中使用flv分发的视频流信息。
+
+## 快速运行
+
+按照以下顺序依次启动各个模块：
+1. Admin
+2. zlm
+3. Algorithm
+4. Analyzer
+
+相应配置文件与运行示例见各个文件夹中的README
